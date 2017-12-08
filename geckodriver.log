@@ -1,0 +1,210 @@
+1512690952707	geckodriver	INFO	geckodriver 0.18.0
+1512690952731	geckodriver	INFO	Listening on 127.0.0.1:49385
+1512690955391	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1512690958278	addons.manager	DEBUG	Application has been upgraded
+1512690959098	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/XPIProvider.jsm: ["XPIProvider"]
+1512690959106	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/LightweightThemeManager.jsm: ["LightweightThemeManager"]
+1512690959132	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/GMPProvider.jsm
+1512690959140	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/PluginProvider.jsm
+1512690959143	addons.manager	DEBUG	Starting provider: XPIProvider
+1512690959145	addons.xpi	DEBUG	startup
+1512690959146	addons.xpi	INFO	Removing all system add-on upgrades.
+1512690959147	addons.xpi	INFO	SystemAddonInstallLocation directory is missing
+1512690959168	addons.xpi	INFO	Mapping aushelper@mozilla.org to C:\Program Files\Mozilla Firefox\browser\features\aushelper@mozilla.org.xpi
+1512690959170	addons.xpi	INFO	Mapping e10srollout@mozilla.org to C:\Program Files\Mozilla Firefox\browser\features\e10srollout@mozilla.org.xpi
+1512690959171	addons.xpi	INFO	Mapping firefox@getpocket.com to C:\Program Files\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi
+1512690959173	addons.xpi	INFO	Mapping screenshots@mozilla.org to C:\Program Files\Mozilla Firefox\browser\features\screenshots@mozilla.org.xpi
+1512690959175	addons.xpi	INFO	Mapping webcompat@mozilla.org to C:\Program Files\Mozilla Firefox\browser\features\webcompat@mozilla.org.xpi
+1512690959191	addons.xpi	INFO	Mapping {972ce4c6-7e08-4474-a285-3208198ce6fd} to C:\Program Files\Mozilla Firefox\browser\extensions\{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi
+1512690959193	addons.xpi	DEBUG	checkForChanges
+1512690959194	addons.xpi	INFO	SystemAddonInstallLocation directory is missing
+1512690959196	addons.xpi	DEBUG	Loaded add-on state from prefs: {}
+1512690959199	addons.xpi	DEBUG	New add-on aushelper@mozilla.org in app-system-defaults
+1512690959203	addons.xpi	DEBUG	getModTime: Recursive scan of aushelper@mozilla.org
+1512690959205	addons.xpi	DEBUG	New add-on e10srollout@mozilla.org in app-system-defaults
+1512690959208	addons.xpi	DEBUG	getModTime: Recursive scan of e10srollout@mozilla.org
+1512690959210	addons.xpi	DEBUG	New add-on firefox@getpocket.com in app-system-defaults
+1512690959212	addons.xpi	DEBUG	getModTime: Recursive scan of firefox@getpocket.com
+1512690959213	addons.xpi	DEBUG	New add-on screenshots@mozilla.org in app-system-defaults
+1512690959214	addons.xpi	DEBUG	getModTime: Recursive scan of screenshots@mozilla.org
+1512690959216	addons.xpi	DEBUG	New add-on webcompat@mozilla.org in app-system-defaults
+1512690959217	addons.xpi	DEBUG	getModTime: Recursive scan of webcompat@mozilla.org
+1512690959220	addons.xpi	DEBUG	New add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} in app-global
+1512690959221	addons.xpi	DEBUG	getModTime: Recursive scan of {972ce4c6-7e08-4474-a285-3208198ce6fd}
+1512690959222	addons.xpi	DEBUG	getInstallState changed: true, state: {"app-system-defaults":{"aushelper@mozilla.org":{"d":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\aushelper@mozilla.org.xpi","st":1496950078000},"e10srollout@mozilla.org":{"d":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\e10srollout@mozilla.org.xpi","st":1496950078000},"firefox@getpocket.com":{"d":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\firefox@getpocket.com.xpi","st":1496950079000},"screenshots@mozilla.org":{"d":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\screenshots@mozilla.org.xpi","st":1496950079000},"webcompat@mozilla.org":{"d":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\webcompat@mozilla.org.xpi","st":1496950078000}},"app-global":{"{972ce4c6-7e08-4474-a285-3208198ce6fd}":{"d":"C:\\Program Files\\Mozilla Firefox\\browser\\extensions\\{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi","st":1496950078000}}}
+1512690959274	addons.xpi-utils	DEBUG	Opening XPI database C:\Users\labinav\AppData\Local\Temp\rust_mozprofile.dBxVVJM5jkFy\extensions.json
+1512690959282	addons.xpi-utils	DEBUG	New add-on aushelper@mozilla.org installed in app-system-defaults
+*** Blocklist::_loadBlocklistFromFile: blocklist is disabled
+1512690959375	DeferredSave.extensions.json	DEBUG	Save changes
+1512690959378	addons.xpi-utils	DEBUG	New add-on e10srollout@mozilla.org installed in app-system-defaults
+1512690959421	DeferredSave.extensions.json	DEBUG	Starting timer
+1512690959448	DeferredSave.extensions.json	DEBUG	Save changes
+1512690959448	addons.xpi-utils	DEBUG	New add-on firefox@getpocket.com installed in app-system-defaults
+1512690959510	DeferredSave.extensions.json	DEBUG	Save changes
+1512690959511	addons.xpi-utils	DEBUG	New add-on screenshots@mozilla.org installed in app-system-defaults
+1512690959569	DeferredSave.extensions.json	DEBUG	Save changes
+1512690959572	addons.xpi-utils	DEBUG	New add-on webcompat@mozilla.org installed in app-system-defaults
+1512690959612	DeferredSave.extensions.json	DEBUG	Save changes
+1512690959613	addons.xpi-utils	DEBUG	New add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} installed in app-global
+1512690959644	DeferredSave.extensions.json	DEBUG	Save changes
+1512690959647	addons.manager	DEBUG	Registering startup change 'installed' for aushelper@mozilla.org
+1512690959684	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files\Mozilla Firefox\browser\features\aushelper@mozilla.org.xpi
+1512690959720	addons.xpi	DEBUG	Calling bootstrap method install on aushelper@mozilla.org version 2.0
+1512690959720	addons.xpi-utils	DEBUG	Make addon app-system-defaults:aushelper@mozilla.org visible
+1512690959722	DeferredSave.extensions.json	DEBUG	Save changes
+1512690959724	addons.manager	DEBUG	Registering startup change 'installed' for e10srollout@mozilla.org
+1512690959726	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files\Mozilla Firefox\browser\features\e10srollout@mozilla.org.xpi
+1512690959735	addons.xpi	DEBUG	Calling bootstrap method install on e10srollout@mozilla.org version 1.50
+1512690959739	addons.xpi-utils	DEBUG	Make addon app-system-defaults:e10srollout@mozilla.org visible
+1512690959740	DeferredSave.extensions.json	DEBUG	Save changes
+1512690959741	addons.manager	DEBUG	Registering startup change 'installed' for firefox@getpocket.com
+1512690959743	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi
+1512690959754	addons.xpi	DEBUG	Calling bootstrap method install on firefox@getpocket.com version 1.0.5
+1512690959755	addons.xpi-utils	DEBUG	Make addon app-system-defaults:firefox@getpocket.com visible
+1512690959756	DeferredSave.extensions.json	DEBUG	Save changes
+1512690959756	addons.manager	DEBUG	Registering startup change 'installed' for screenshots@mozilla.org
+1512690959758	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files\Mozilla Firefox\browser\features\screenshots@mozilla.org.xpi
+1512690959766	addons.xpi	DEBUG	Calling bootstrap method install on screenshots@mozilla.org version 6.6.0
+1512690959766	addons.xpi-utils	DEBUG	Make addon app-system-defaults:screenshots@mozilla.org visible
+1512690959769	DeferredSave.extensions.json	DEBUG	Save changes
+1512690959770	addons.manager	DEBUG	Registering startup change 'installed' for webcompat@mozilla.org
+1512690959771	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files\Mozilla Firefox\browser\features\webcompat@mozilla.org.xpi
+1512690959778	addons.xpi	DEBUG	Calling bootstrap method install on webcompat@mozilla.org version 1.1
+1512690959778	addons.xpi-utils	DEBUG	Make addon app-system-defaults:webcompat@mozilla.org visible
+1512690959780	DeferredSave.extensions.json	DEBUG	Save changes
+1512690959781	addons.xpi-utils	DEBUG	Make addon app-global:{972ce4c6-7e08-4474-a285-3208198ce6fd} visible
+1512690959782	DeferredSave.extensions.json	DEBUG	Save changes
+1512690959783	addons.xpi	DEBUG	Updating XPIState for {"id":"aushelper@mozilla.org","syncGUID":"{81a19c15-ee74-4b95-9267-fb9c1530414a}","location":"app-system-defaults","version":"2.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Application Update Service Helper","description":"Sets value(s) in the update url based on custom checks.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\aushelper@mozilla.org.xpi","installDate":1496950078000,"updateDate":1496950078000,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":8486,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"54.0","maxVersion":"54.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null}
+1512690959784	addons.xpi	DEBUG	getModTime: Recursive scan of aushelper@mozilla.org
+1512690959786	addons.xpi	DEBUG	Updating XPIState for {"id":"e10srollout@mozilla.org","syncGUID":"{6687ee4e-f1ee-4453-ab65-6354a7014bc5}","location":"app-system-defaults","version":"1.50","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Multi-process staged rollout","description":"Staged rollout of Firefox multi-process feature.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\e10srollout@mozilla.org.xpi","installDate":1496950078000,"updateDate":1496950078000,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":12517,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"54.0","maxVersion":"54.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null}
+1512690959786	addons.xpi	DEBUG	getModTime: Recursive scan of e10srollout@mozilla.org
+1512690959788	addons.xpi	DEBUG	Updating XPIState for {"id":"firefox@getpocket.com","syncGUID":"{1d5c0775-26db-4461-9e10-584f6ddc2a48}","location":"app-system-defaults","version":"1.0.5","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Pocket","description":"When you find something you want to view later, put it in Pocket.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\firefox@getpocket.com.xpi","installDate":1496950079000,"updateDate":1496950079000,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":913904,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"54.0","maxVersion":"54.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null}
+1512690959788	addons.xpi	DEBUG	getModTime: Recursive scan of firefox@getpocket.com
+1512690959790	addons.xpi	DEBUG	Updating XPIState for {"id":"screenshots@mozilla.org","syncGUID":"{3d55f4f4-5b16-48bd-9fab-eb75112a7d25}","location":"app-system-defaults","version":"6.6.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Firefox Screenshots","description":null,"creator":null,"homepageURL":"https://pageshot.net/"},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\screenshots@mozilla.org.xpi","installDate":1496950079000,"updateDate":1496950079000,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":716271,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"51.0a1","maxVersion":"*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null}
+1512690959790	addons.xpi	DEBUG	getModTime: Recursive scan of screenshots@mozilla.org
+1512690959792	addons.xpi	DEBUG	Updating XPIState for {"id":"webcompat@mozilla.org","syncGUID":"{4b5dd95c-1421-4bf2-aff2-a2055df22229}","location":"app-system-defaults","version":"1.1","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Web Compat","description":"Urgent post-release fixes for web compatibility.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"C:\\Program Files\\Mozilla Firefox\\browser\\features\\webcompat@mozilla.org.xpi","installDate":1496950078000,"updateDate":1496950078000,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":9004,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"54.0","maxVersion":"54.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null}
+1512690959792	addons.xpi	DEBUG	getModTime: Recursive scan of webcompat@mozilla.org
+1512690959795	addons.xpi	DEBUG	Updating XPIState for {"id":"{972ce4c6-7e08-4474-a285-3208198ce6fd}","syncGUID":"{275e1354-4781-42fe-a506-4cb35b4ce215}","location":"app-global","version":"54.0","type":"theme","internalName":"classic/1.0","updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":"chrome://browser/content/default-theme-icon.svg","icon64URL":null,"defaultLocale":{"name":"Default","description":"The default theme.","creator":"Mozilla","homepageURL":null,"contributors":["Mozilla Contributors"]},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"C:\\Program Files\\Mozilla Firefox\\browser\\extensions\\{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi","installDate":1496950078000,"updateDate":1496950078000,"applyBackgroundUpdates":1,"skinnable":true,"size":8201,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"54.0","maxVersion":"54.0"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"userPermissions":null}
+1512690959795	addons.xpi	DEBUG	getModTime: Recursive scan of {972ce4c6-7e08-4474-a285-3208198ce6fd}
+1512690959798	DeferredSave.extensions.json	DEBUG	Save changes
+1512690959799	addons.xpi	DEBUG	Updating database with changes to installed add-ons
+1512690959799	addons.xpi-utils	DEBUG	Updating add-on states
+1512690959805	addons.xpi-utils	DEBUG	Writing add-ons list
+1512690959817	addons.xpi	DEBUG	Registering manifest for C:\Program Files\Mozilla Firefox\browser\features\aushelper@mozilla.org.xpi
+1512690959820	addons.xpi	DEBUG	Calling bootstrap method startup on aushelper@mozilla.org version 2.0
+1512690959824	addons.xpi	DEBUG	Registering manifest for C:\Program Files\Mozilla Firefox\browser\features\e10srollout@mozilla.org.xpi
+1512690959826	addons.xpi	DEBUG	Calling bootstrap method startup on e10srollout@mozilla.org version 1.50
+1512690959828	addons.xpi	DEBUG	Registering manifest for C:\Program Files\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi
+1512690959830	addons.xpi	DEBUG	Calling bootstrap method startup on firefox@getpocket.com version 1.0.5
+1512690959833	addons.xpi	DEBUG	Registering manifest for C:\Program Files\Mozilla Firefox\browser\features\screenshots@mozilla.org.xpi
+1512690959835	addons.xpi	DEBUG	Calling bootstrap method startup on screenshots@mozilla.org version 6.6.0
+1512690959837	addons.xpi	DEBUG	Registering manifest for C:\Program Files\Mozilla Firefox\browser\features\webcompat@mozilla.org.xpi
+1512690959839	addons.xpi	DEBUG	Calling bootstrap method startup on webcompat@mozilla.org version 1.1
+1512690959854	addons.manager	DEBUG	Registering shutdown blocker for XPIProvider
+1512690959858	addons.manager	DEBUG	Provider finished startup: XPIProvider
+1512690959861	addons.manager	DEBUG	Starting provider: LightweightThemeManager
+1512690959861	addons.manager	DEBUG	Registering shutdown blocker for LightweightThemeManager
+1512690959863	addons.manager	DEBUG	Provider finished startup: LightweightThemeManager
+1512690959864	addons.manager	DEBUG	Starting provider: GMPProvider
+1512690959881	addons.manager	DEBUG	Registering shutdown blocker for GMPProvider
+1512690959882	addons.manager	DEBUG	Provider finished startup: GMPProvider
+1512690959882	addons.manager	DEBUG	Starting provider: PluginProvider
+1512690959883	addons.manager	DEBUG	Registering shutdown blocker for PluginProvider
+1512690959883	addons.manager	DEBUG	Provider finished startup: PluginProvider
+1512690959886	addons.manager	DEBUG	Completed startup sequence
+1512690966626	addons.manager	DEBUG	Starting provider: <unnamed-provider>
+1512690966629	addons.manager	DEBUG	Registering shutdown blocker for <unnamed-provider>
+1512690966630	addons.manager	DEBUG	Provider finished startup: <unnamed-provider>
+1512690967591	addons.manager	DEBUG	Starting provider: PreviousExperimentProvider
+1512690967592	addons.manager	DEBUG	Registering shutdown blocker for PreviousExperimentProvider
+1512690967593	addons.manager	DEBUG	Provider finished startup: PreviousExperimentProvider
+1512690967640	DeferredSave.extensions.json	DEBUG	Starting write
+1512690969885	DeferredSave.extensions.json	DEBUG	Write succeeded
+1512690969889	addons.xpi-utils	DEBUG	XPI Database saved, setting schema version preference to 19
+1512690982109	Marionette	INFO	Listening on port 49391
+1512690982534	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512690982667	Marionette	DEBUG	loaded listener.js
+1512690983181	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512690999794	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512690999794	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512691009656	Marionette	DEBUG	Received DOM event "pageshow" for "http://dev.code4socialgood.org/"
+1512691009852	Marionette	DEBUG	Received DOM event "pageshow" for "http://dev.code4socialgood.org/"
+1512691009920	Marionette	DEBUG	Received DOM event "pageshow" for "http://dev.code4socialgood.org/"
+1512691011031	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://dev.code4socialgood.org/"
+1512691011498	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://dev.code4socialgood.org/"
+1512691011503	Marionette	DEBUG	Received DOM event "pageshow" for "http://dev.code4socialgood.org/"
+1512691011505	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://dev.code4socialgood.org/"
+1512691011548	Marionette	DEBUG	Received DOM event "pageshow" for "http://dev.code4socialgood.org/"
+1512691011604	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1512691011607	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://dev.code4socialgood.org/"
+1512691015378	Marionette	DEBUG	Received DOM event "pageshow" for "http://dev.code4socialgood.org/"
+1512691015568	Marionette	DEBUG	Received DOM event "pageshow" for "http://dev.code4socialgood.org/"
+1512691018725	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://va.tawk.to/log-performance/v3"
+1512691018735	Marionette	DEBUG	Received DOM event "pageshow" for "https://va.tawk.to/log-performance/v3"
+1512691021482	Marionette	DEBUG	Received DOM event "pageshow" for "http://dev.code4socialgood.org/"
+1512691026584	Marionette	DEBUG	Received DOM event "beforeunload" for "http://dev.code4socialgood.org/"
+1512691028262	Marionette	DEBUG	Received DOM event "pagehide" for "http://dev.code4socialgood.org/"
+1512691028279	Marionette	DEBUG	Received DOM event "unload" for "http://dev.code4socialgood.org/"
+1512691029412	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1512691029418	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1512691029421	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1512691029425	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1512691029462	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://c4sg-dev.auth0.com/login?client=oO8PRySIJnGHDGsZQ36zOhhccNE6iNjf&protocol=oauth2&response_type=token&scope=openid%20profile%20email%20scope&audience=https%3A%2F%2Fc4sg-api&envars=dev&auth0Client=eyJuYW1lIjoiYXV0aDAuanMiLCJ2ZXJzaW9uIjoiOC44LjAifQ%3D%3D&state=mR9RFMyMSKsBSMfQTcPXW2M9sOvvGFvX"
+1512691029515	Marionette	DEBUG	Received DOM event "pageshow" for "https://c4sg-dev.auth0.com/login?client=oO8PRySIJnGHDGsZQ36zOhhccNE6iNjf&protocol=oauth2&response_type=token&scope=openid%20profile%20email%20scope&audience=https%3A%2F%2Fc4sg-api&envars=dev&auth0Client=eyJuYW1lIjoiYXV0aDAuanMiLCJ2ZXJzaW9uIjoiOC44LjAifQ%3D%3D&state=mR9RFMyMSKsBSMfQTcPXW2M9sOvvGFvX"
+[GPU 13104] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1512691034143	addons.productaddons	INFO	sending request to: https://aus5.mozilla.org/update/3/GMP/54.0/20170608105825/WINNT_x86_64-msvc-x64/en-US/release/Windows_NT%2010.0.0.0%20(x64)/default/default/update.xml
+1512691034164	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512691034382	addons.productaddons	INFO	Completed downloading document
+1512691034746	Marionette	INFO	New connections will no longer be accepted
+1512691034779	addons.xpi	DEBUG	Calling bootstrap method shutdown on webcompat@mozilla.org version 1.1
+1512691034781	addons.xpi	DEBUG	Calling bootstrap method shutdown on screenshots@mozilla.org version 6.6.0
+1512691034783	addons.xpi	DEBUG	Calling bootstrap method shutdown on firefox@getpocket.com version 1.0.5
+1512691034787	addons.xpi	DEBUG	Calling bootstrap method shutdown on e10srollout@mozilla.org version 1.50
+1512691034790	addons.xpi	DEBUG	Calling bootstrap method shutdown on aushelper@mozilla.org version 2.0
+1512691034864	addons.productaddons	INFO	downloadXHR File download. status=200
+downloadXHR File download. status=200
+1511916568456	addons.productaddons	INFO	Downloaded file will be saved to C:\Users\labinav\AppData\Local\Temp\tmpaddon-9c6795
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 4892] WARNING: pipe error: 232: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+b-ed3e-85c6-ae2de0c92d69"
+1511914989874	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/login.php?skip_api_login=1&api_key=127149591261079&signed_next=1&next=https%3A%2F%2Fwww.facebook.com%2Fv2.10%2Fdialog%2Foauth%3Fredirect_uri%3Dhttps%253A%252F%252Fc4sg-dev.auth0.com%252Flogin%252Fcallback%26state%3D_Bl2pKe8-GxHsSYtaHW3XUEqNO2DPwCE%26scope%3Demail%26response_type%3Dcode%26client_id%3D127149591261079%26ret%3Dlogin%26logger_id%3D01305145-64fb-ed3e-85c6-ae2de0c92d69&cancel_url=https%3A%2F%2Fc4sg-dev.auth0.com%2Flogin%2Fcallback%3Ferror%3Daccess_denied%26error_code%3D200%26error_description%3DPermissions%2Berror%26error_reason%3Duser_denied%26state%3D_Bl2pKe8-GxHsSYtaHW3XUEqNO2DPwCE%23_%3D_&display=page&locale=en_US&logger_id=01305145-64fb-ed3e-85c6-ae2de0c92d69"
+1511914989882	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/login.php?skip_api_login=1&api_key=127149591261079&signed_next=1&next=https%3A%2F%2Fwww.facebook.com%2Fv2.10%2Fdialog%2Foauth%3Fredirect_uri%3Dhttps%253A%252F%252Fc4sg-dev.auth0.com%252Flogin%252Fcallback%26state%3D_Bl2pKe8-GxHsSYtaHW3XUEqNO2DPwCE%26scope%3Demail%26response_type%3Dcode%26client_id%3D127149591261079%26ret%3Dlogin%26logger_id%3D01305145-64fb-ed3e-85c6-ae2de0c92d69&cancel_url=https%3A%2F%2Fc4sg-dev.auth0.com%2Flogin%2Fcallback%3Ferror%3Daccess_denied%26error_code%3D200%26error_description%3DPermissions%2Berror%26error_reason%3Duser_denied%26state%3D_Bl2pKe8-GxHsSYtaHW3XUEqNO2DPwCE%23_%3D_&display=page&locale=en_US&logger_id=01305145-64fb-ed3e-85c6-ae2de0c92d69"
+1511914989884	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/login.php?skip_api_login=1&api_key=127149591261079&signed_next=1&next=https%3A%2F%2Fwww.facebook.com%2Fv2.10%2Fdialog%2Foauth%3Fredirect_uri%3Dhttps%253A%252F%252Fc4sg-dev.auth0.com%252Flogin%252Fcallback%26state%3D_Bl2pKe8-GxHsSYtaHW3XUEqNO2DPwCE%26scope%3Demail%26response_type%3Dcode%26client_id%3D127149591261079%26ret%3Dlogin%26logger_id%3D01305145-64fb-ed3e-85c6-ae2de0c92d69&cancel_url=https%3A%2F%2Fc4sg-dev.auth0.com%2Flogin%2Fcallback%3Ferror%3Daccess_denied%26error_code%3D200%26error_description%3DPermissions%2Berror%26error_reason%3Duser_denied%26state%3D_Bl2pKe8-GxHsSYtaHW3XUEqNO2DPwCE%23_%3D_&display=page&locale=en_US&logger_id=01305145-64fb-ed3e-85c6-ae2de0c92d69"
+1511914989892	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/login.php?skip_api_login=1&api_key=127149591261079&signed_next=1&next=https%3A%2F%2Fwww.facebook.com%2Fv2.10%2Fdialog%2Foauth%3Fredirect_uri%3Dhttps%253A%252F%252Fc4sg-dev.auth0.com%252Flogin%252Fcallback%26state%3D_Bl2pKe8-GxHsSYtaHW3XUEqNO2DPwCE%26scope%3Demail%26response_type%3Dcode%26client_id%3D127149591261079%26ret%3Dlogin%26logger_id%3D01305145-64fb-ed3e-85c6-ae2de0c92d69&cancel_url=https%3A%2F%2Fc4sg-dev.auth0.com%2Flogin%2Fcallback%3Ferror%3Daccess_denied%26error_code%3D200%26error_description%3DPermissions%2Berror%26error_reason%3Duser_denied%26state%3D_Bl2pKe8-GxHsSYtaHW3XUEqNO2DPwCE%23_%3D_&display=page&locale=en_US&logger_id=01305145-64fb-ed3e-85c6-ae2de0c92d69"
+1511914992704	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1511914992735	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1511914992766	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1511914992799	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1511914992804	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/common/referer_frame.php"
+1511914992825	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/common/referer_frame.php"
+1511914992951	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/login.php?skip_api_login=1&api_key=127149591261079&signed_next=1&next=https%3A%2F%2Fwww.facebook.com%2Fv2.10%2Fdialog%2Foauth%3Fredirect_uri%3Dhttps%253A%252F%252Fc4sg-dev.auth0.com%252Flogin%252Fcallback%26state%3D_Bl2pKe8-GxHsSYtaHW3XUEqNO2DPwCE%26scope%3Demail%26response_type%3Dcode%26client_id%3D127149591261079%26ret%3Dlogin%26logger_id%3D01305145-64fb-ed3e-85c6-ae2de0c92d69&cancel_url=https%3A%2F%2Fc4sg-dev.auth0.com%2Flogin%2Fcallback%3Ferror%3Daccess_denied%26error_code%3D200%26error_description%3DPermissions%2Berror%26error_reason%3Duser_denied%26state%3D_Bl2pKe8-GxHsSYtaHW3XUEqNO2DPwCE%23_%3D_&display=page&locale=en_US&logger_id=01305145-64fb-ed3e-85c6-ae2de0c92d69"
+1511915004040	Marionette	INFO	New connections will no longer be accepted
+1511915005563	addons.xpi	DEBUG	Calling bootstrap method shutdown on webcompat@mozilla.org version 1.1
+1511915005565	addons.xpi	DEBUG	Calling bootstrap method shutdown on screenshots@mozilla.org version 6.6.0
+1511915005568	addons.xpi	DEBUG	Calling bootstrap method shutdown on firefox@getpocket.com version 1.0.5
+1511915005572	addons.xpi	DEBUG	Calling bootstrap method shutdown on e10srollout@mozilla.org version 1.50
+1511915005576	addons.xpi	DEBUG	Calling bootstrap method shutdown on aushelper@mozilla.org version 2.0
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 9280] WARNING: pipe error: 232: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xEA0005,name=PVideoDecoderManager::Msg_DeallocateSurfaceDescriptorGPUVideo) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xEA0005,name=PVideoDecoderManager::Msg_DeallocateSurfaceDescriptorGPUVideo) Channel error: cannot send/recv
+
+sg_DeallocateSurfaceDescriptorGPUVideo) Channel error: cannot send/recv
+
