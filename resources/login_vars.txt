@@ -1,0 +1,23 @@
+*** variables ***
+#plug in valid fb and google account details
+${err_msg_empty}    Missing required parameter: username
+${err_msg_invalid}    Wrong email or password
+${err_msg_registered_unverified}    Please verify your email before logging in.
+${logged_in_msg}    Log Out    
+
+${unregis_user}    testers@gmail.com
+${invalid_email}    testgmail.com
+${regis_unverified_email}    tester@gmail.com
+${valid_email}    ***
+${fb_username}    ***
+${fb_pass}    ***
+${google_username}    ***
+${google_pw}    ***
+${pw}    test
+
+#forgot pw vars
+${forgot_pw_empty_email_msg}    Email is required to do a password reset
+${forgot_pw_invalid_email_msg}    A password reset link was sent to your email
+
+#sign up
+${signup_empty_email_msg}    email is required
